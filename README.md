@@ -70,7 +70,13 @@ To upload the dataset:
 3. Click on "Create Dataset."
 
 <p align="center">
-  <img src="https://i.ibb.co/pvyqTRw/zcy-YD-u-Ubnk.jpg" alt="Overtrained Mellicent_digital LORA">
+  <img src="https://i.ibb.co/pvyqTRw/zcy-YD-u-Ubnk.jpg">
 </p> 
 
 Name your dataset (a set of images) and choose a category
+
+<p align="center">
+  <img src="https://i.ibb.co/gmTKLg4/5e-Azo85-TF3-U.jpg">
+</p> 
+
+Next, upload all the images into the dataset
