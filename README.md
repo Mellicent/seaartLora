@@ -22,3 +22,10 @@ For this step, follow these instructions:
 You can quickly accomplish this using the following website: [BIRME](https://www.birme.net/).
 
 ![Choosing images](https://i.ibb.co/XkHHT4S/BTGDA2y-UWIU.jpg)
+
+# Handling Artwork Size
+
+If an artwork cannot fit into a square, I sometimes divide it into two parts. The key in framing is to focus on the correct composition rather than fitting the entire figure into the frame.
+
+Avoid doing it like this:
+![One figure in the midst of emptiness, but it's a full-body shot](https://i.ibb.co/BGpS6vt/4o-Vsid0-Jm-E.jpg)
