@@ -9,7 +9,10 @@ Firstly, we need to determine what we want to train LORA on. You can train it on
 For example, here's one of my works:
 
 
-![Artwork Example](https://i.ibb.co/3mTxWGw/78-LLFZs5-Ec-I.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/3mTxWGw/78-LLFZs5-Ec-I.jpg" alt="Artwork Example">
+</p>
+
 
 # Selecting and Refining Artworks
 
@@ -21,7 +24,10 @@ For this step, follow these instructions:
    
 You can quickly accomplish this using the following website: [BIRME](https://www.birme.net/).
 
-![Choosing images](https://i.ibb.co/XkHHT4S/BTGDA2y-UWIU.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/XkHHT4S/BTGDA2y-UWIU.jpg" alt="Choosing images">
+</p>
+
 
 # Handling Artwork Size
 
