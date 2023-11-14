@@ -42,6 +42,7 @@ Avoid doing it like this:
 </p>
 
 *One figure in the midst of emptiness, but it's a full-body shot*
+
 In this case, it's much better to crop it. Yes, it will become a portrait, but LORA won't be adding figures of people in the middle of a gray background:
 
 <p align="center">
@@ -49,6 +50,7 @@ In this case, it's much better to crop it. Yes, it will become a portrait, but L
 </p>
 
 *Portrait, on the other hand, maintains proper composition*
+
 Furthermore, LORA can retrain if there are too many artworks, so it's better to keep only high-quality ones; otherwise, you may end up with something like this:
 
 <p align="center">
