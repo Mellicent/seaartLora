@@ -106,3 +106,9 @@ Here you need to decide which model you will use to train your LORA. Since my dr
   <img src="https://i.ibb.co/31SD1TQ/Df-DId2-c1-Ic.jpg">
 </p> 
 
+
+# Waiting for about 20 minutes for the model to train.
+
+## Editing LORA
+
+In the LORA tab, your LORA will appear, but it will be without an image. You need to generate the image and upscale it so that Seaart allows you to upload it.
