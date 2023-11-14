@@ -49,7 +49,7 @@ In this case, it's much better to crop it. Yes, it will become a portrait, but L
 Furthermore, LORA can retrain if there are too many artworks, so it's better to keep only high-quality ones; otherwise, you may end up with something like this:
 
 <p align="center">
-  <img src="https://i.ibb.co/WxtmvRp/dmx-Y9-Gj-DFes.jpg" alt="Overtrained Mellicent_digital LORA">
+  <img src="[https://i.ibb.co/WxtmvRp/dmx-Y9-Gj-DFes.jpg](https://i.ibb.co/2tXzdSh/BHFW0qw2-Zy-Q.jpg)" alt="Overtrained Mellicent_digital LORA">
 </p>
 
 
