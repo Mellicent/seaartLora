@@ -112,3 +112,10 @@ Here you need to decide which model you will use to train your LORA. Since my dr
 ## Editing LORA
 
 In the LORA tab, your LORA will appear, but it will be without an image. You need to generate the image and upscale it so that Seaart allows you to upload it.
+
+<p align="center">
+  <img src="https://i.ibb.co/HpJ8gwB/f2-Kb70m-EMLQ.jpg">
+</p> 
+
+
+In the right corner, there is an option to download or edit your LORA.
