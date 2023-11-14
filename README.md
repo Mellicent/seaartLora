@@ -89,3 +89,13 @@ Next, upload all the images into the dataset
 
 
 *MAKE SURE TO SAVE THE DATASET.*
+
+
+# Training LORA
+
+Press "Train LORA."
+
+<p align="center">
+  <img src="https://i.ibb.co/jZqYmnk/5ke-N-w-Rs8-Ek.jpg">
+</p> 
+
