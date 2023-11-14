@@ -27,6 +27,7 @@ You can quickly accomplish this using the following website: [BIRME](https://www
 <p align="center">
   <img src="https://i.ibb.co/XkHHT4S/BTGDA2y-UWIU.jpg" alt="Choosing images">
 </p>
+*Choosing images*
 
 
 # Handling Artwork Size
@@ -38,4 +39,17 @@ Avoid doing it like this:
 <p align="center">
   <img src="https://i.ibb.co/BGpS6vt/4o-Vsid0-Jm-E.jpg" alt="One figure in the midst of emptiness, but it's a full-body shot">
 </p>
+*One figure in the midst of emptiness, but it's a full-body shot*
+In this case, it's much better to crop it. Yes, it will become a portrait, but LORA won't be adding figures of people in the middle of a gray background:
+
+<p align="center">
+  <img src="https://i.ibb.co/WxtmvRp/dmx-Y9-Gj-DFes.jpg" alt="Portrait, on the other hand, maintains proper composition.">
+</p>
+*Portrait, on the other hand, maintains proper composition*
+Furthermore, LORA can retrain if there are too many artworks, so it's better to keep only high-quality ones; otherwise, you may end up with something like this:
+
+<p align="center">
+  <img src="https://i.ibb.co/WxtmvRp/dmx-Y9-Gj-DFes.jpg" alt="Overtrained Mellicent_digital LORA">
+</p>
+
 
