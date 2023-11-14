@@ -58,3 +58,19 @@ Furthermore, LORA can retrain if there are too many artworks, so it's better to 
   <img src="https://i.ibb.co/2tXzdSh/BHFW0qw2-Zy-Q.jpg" alt="Overtrained Mellicent_digital LORA">
 </p>
 
+<p align="center"><i>Overtrained Mellicent_digital LORA</i></p>
+
+
+# Uploading Dataset
+
+To upload the dataset:
+
+1. Register on Seaart, then go to AI Model.
+2. In the AI Model section, LORAs are trained.
+3. Click on "Create Dataset."
+
+<p align="center">
+  <img src="https://i.ibb.co/pvyqTRw/zcy-YD-u-Ubnk.jpg" alt="Overtrained Mellicent_digital LORA">
+</p> 
+
+Name your dataset (a set of images) and choose a category
