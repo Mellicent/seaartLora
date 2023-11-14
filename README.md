@@ -29,4 +29,7 @@ If an artwork cannot fit into a square, I sometimes divide it into two parts. Th
 
 Avoid doing it like this:
 
-![One figure in the midst of emptiness, but it's a full-body shot](https://i.ibb.co/BGpS6vt/4o-Vsid0-Jm-E.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/BGpS6vt/4o-Vsid0-Jm-E.jpg" alt="One figure in the midst of emptiness, but it's a full-body shot">
+</p>
+
