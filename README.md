@@ -73,10 +73,19 @@ To upload the dataset:
   <img src="https://i.ibb.co/pvyqTRw/zcy-YD-u-Ubnk.jpg">
 </p> 
 
+
 Name your dataset (a set of images) and choose a category
 
 <p align="center">
   <img src="https://i.ibb.co/gmTKLg4/5e-Azo85-TF3-U.jpg">
 </p> 
 
+
 Next, upload all the images into the dataset
+
+<p align="center">
+  <img src="https://i.ibb.co/wh9NMKD/zv-K-Xi-XXv-VI.jpg">
+</p> 
+
+
+*MAKE SURE TO SAVE THE DATASET.*
