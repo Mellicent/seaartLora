@@ -100,3 +100,9 @@ Press "Train LORA."
 </p> 
 
 
+Here you need to decide which model you will use to train your LORA. Since my drawings always have a bold black outline, I will choose the HICCUP model.
+
+<p align="center">
+  <img src="https://i.ibb.co/31SD1TQ/Df-DId2-c1-Ic.jpg">
+</p> 
+
