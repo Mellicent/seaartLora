@@ -119,3 +119,11 @@ In the LORA tab, your LORA will appear, but it will be without an image. You nee
 
 
 In the right corner, there is an option to download or edit your LORA.
+
+
+<p align="center">
+  <img src="https://i.ibb.co/fdvRty9/YD9-HV2y-N50-Y.jpg">
+</p> 
+
+You can change permissions, add a description, and include a cover image.
+
