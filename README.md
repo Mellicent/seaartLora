@@ -107,7 +107,7 @@ Here you need to decide which model you will use to train your LORA. Since my dr
 </p> 
 
 
-# Waiting for about 20 minutes for the model to train.
+*Waiting for about 20 minutes for the model to train.*
 
 ## Editing LORA
 
@@ -144,3 +144,7 @@ Negative:
 verybadimagenegative_v1.3, ng_deepnegative_v1_75t, (ugly face: 0.8), cross-eyed, sketches, (worst quality: 2), (low quality: 2), (normal quality: 2), low-res, normal quality, ((monochrome)), ((grayscale)), skin spots, acne, skin blemishes, bad anatomy, DeepNegative, facing away, tilted head, {Multiple people}, low-res, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, cropped, poorly drawn hands, poorly drawn face, mutation, deformed, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, extra fingers, fewer digits, extra limbs, extra arms, extra legs, malformed limbs, fused fingers, too many fingers, long neck, cross-eyed, mutated hands, polar low-res, bad body, bad proportions, gross proportions, text, error, missing fingers, missing arms, missing legs, extra digit, extra arms, extra leg, extra foot, ((repeating hair))
 
 I'll also upscale this image. It turned out not exactly as in the prompt, but it's good.
+
+<p align="center">
+  <img src="https://i.ibb.co/6Z8RJKL/vrq-M4-PHan-KY.jpg">
+</p> 
