@@ -1,6 +1,6 @@
 # Creating LORA
 
-In this article, I will guide you on how to create your own LORA. Since my computer is not very powerful, I will be using the Seaart.ai website.
+In this article, I will guide you on how to create your own LORA. Since my computer is not very powerful, I will be using the [Seaart.ai](https://www.seaart.ai/) website.
 
 ## Getting Started
 
